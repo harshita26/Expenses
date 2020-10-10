@@ -1,0 +1,22 @@
+create db 
+then create folder
+open cmd
+npm init
+npm i -s express mongoose body-parser cors
+in program folder create db.js file and enter db connection code
+run the file to check in terminal- node db.js
+to every time want node js rerun if any change in code we use nodemon
+to install nodemon type in terminal - npm i nodemon
+and in terminal we type - nodemon db.js
+create index.js
+add db.js in this file
+and type command and in terminal nodemon index.js
+update code and check in browser with localhost:4000
+
+after go back folder and create react app
+in terminal type- npx create-react-app expenses
+go to -cd expenses
+
+connect redux for better 
+use this command in terminal- npm i -s redux react-redux redux-thunk
+create action and controller flder
