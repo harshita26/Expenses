@@ -1,0 +1,6 @@
+body { background-color: #6200EE;}
+div#root { margin-top:5%;}
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-8, .MuiGrid-grid-xs-4{ padding-left: 50px;color: white;border-bottom: 1px solid #C099F8;padding-bottom: 2%;font-weight: bold;}
+.MuiGrid-root.MuiGrid-container {margin-top: 1%;}
+label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-outlined, .MuiInputBase-input { color: white !important;}
+.MuiOutlinedInput-notchedOutline {border-color: white !important;}
